@@ -26,4 +26,4 @@ To run the analysis locally, clone this repository and install the required depe
 pip install networkx numpy matplotlib
 
 # Run the main script 
-python src/main.py
+python src/simulacija.py
